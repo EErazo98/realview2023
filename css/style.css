@@ -1,0 +1,199 @@
+@charset "utf-8";
+/* CSS Document */
+
+.fondonav{
+background-color: #01579B !important;	
+		
+}
+
+.textnav a{
+	
+color:white !important;	
+font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 20px;
+}
+
+section{
+display:flex;
+width:600px;
+height:430px;
+}
+
+section img{
+	
+width: 0px;
+flex-grow: 1;
+	object-fit: cover;
+	opacity: .8;
+	transition: .5s ease;	
+}
+
+section img:hover{
+cursor:crosshair;
+	width:300px;
+	opacity: 1;
+	filter:contrast(120%);
+				
+}
+
+.Espacio1{
+	
+padding-top:90px;	
+	
+}
+
+.titular{
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+text-align:center;
+	font-size: 50px;
+	
+	
+}
+
+.parrafo{
+	
+font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 20px;	
+	text-align: center;
+	padding-top:35px;
+}
+.Boton1{
+	
+background-color:#020F2A;
+Color:white;
+	Text-align:center;
+	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	border-radius: 20px;
+	padding-right:35px;
+	padding-left:35px;
+}
+.Espacio2{
+	
+padding-top:35px;	
+	
+}
+
+.Espacio3{
+margin-left:50px;	
+	
+}
+.Boton2{
+	
+background-color:#2A75BF;
+Color:white;
+	Text-align:center;
+	font-family:'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', 'DejaVu Sans', Verdana, 'sans-serif';
+	border-radius: 20px;
+	padding-right:35px;
+	padding-left:35px;
+}
+
+.titular2{
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+text-align:center;
+	font-size: 50px;
+	
+}
+
+.parrafo2{
+	
+font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 20px;	
+	text-align: left;
+	padding-top:35px;
+}
+.Espacio4{
+	
+padding-bottom:35px;	
+	
+}
+.espacio5{
+padding-top: 200px;	
+	
+	
+}
+
+.fondoauto{
+background-color:#01579B; 	
+color:white;	
+	
+}
+.Espacio6{
+padding:10px;	
+	
+}
+
+.Espacio7{
+	
+margin-bottom: 90px;	
+	
+}
+
+
+.fondopantalla{
+ background-color: #0A1B40;	
+}
+
+
+.textfor{
+color:white;
+	
+	
+}
+
+.botn{
+background-color: #000000;
+Color:white;
+	Text-align:center;
+	font-family:'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', 'DejaVu Sans', Verdana, 'sans-serif';
+	border-radius: 20px;
+	padding-right:35px;
+	padding-left:35px;	
+	
+}
+
+.textotitular{
+	
+font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+font-size: 30px;
+color: white;
+text-align: center;	
+}
+
+.textocuerpo {
+font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+font-size: 15px;
+color: white;
+text-align: left;	
+}
+
+
+.espacio1 {
+padding-top:175px; 	
+}
+
+
+
+.boton{
+background-color: #3848AA;
+color: white;
+border-radius: 20px;	
+text-align: center;
+padding-left: 20px;
+padding-right: 20px;
+	
+}
+
+.fondopantalla{
+ background-color: #0A1B40;	
+	
+	
+}
+
+.espacio2{
+	
+padding-bottom: 10px;	
+	
+}
+
+
